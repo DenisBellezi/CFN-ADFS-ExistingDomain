@@ -162,7 +162,6 @@
             "Description": "Select the instance type. Default: t2.medium"
         },
         "Parameter04cKeyPair": {
-            "Default": "dbbellez01",
             "Type": "AWS::EC2::KeyPair::KeyName",
             "Description": "Select an available Key Pair in the region to create the EC2 instances."
         },
